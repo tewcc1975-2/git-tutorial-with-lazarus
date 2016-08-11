@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\tools\lazarus\fpc\3.0.0\bin\i386-win32\fpc.exe" Date="1213097031"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq -FiD:\www\git_tutorial_with_lazarus\lib\i386-win32 -FuD:\www\git_tutorial_with_lazarus\ -FUD:\www\git_tutorial_with_lazarus\lib\i386-win32\ project1.lpr"/>
+</CONFIG>
